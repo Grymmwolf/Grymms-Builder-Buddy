@@ -67,4 +67,4 @@ Yes. It patches rules at runtime only and doesn’t overwrite game assets. You c
 ---
 
 ### Uninstall
-Delete the DLL from `ASKA/BepInEx/plugins/GrymmsBuilderBuddy/` and restart the game.  
+Delete the DLL from `ASKA/BepInEx/plugins` and restart the game.  
