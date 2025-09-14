@@ -1,9 +1,10 @@
 ## Features
 
-- **Build Anywhere**
+**Build Anywhere**
 - Allows you to place structures and paths anywhere. Want to put your woodcutters' hut inside a longhouse? Bad idea, but go for it! Want to place a dirth path through a wall or make a land bridge across a man-made ditch? Sure can buddy! (May require manual hoeing)
-- Doesn’t alter settlement limits, resources, or costs—just the placement rule.
-- **Bigger Terrain Brush**
+- Doesn’t alter settlement limits, resources, or costs—just the placement rule.  
+
+**Bigger Terrain Brush**
 - Skips the footprint validation that limits brush size so you can work on large areas. Think 100 cells for the terrain tool instead of the default 10.
 
 ---
