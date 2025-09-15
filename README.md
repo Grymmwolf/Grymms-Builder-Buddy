@@ -1,4 +1,4 @@
-# Grymm’s Builder Buddy
+# Grymm’s Builder Buddy - *A simple QOL mod for ASKA.*  
 
 Sick of arguing with the ghost preview like it’s your HOA president?  
 
@@ -55,6 +55,13 @@ Yes. It patches rules at runtime only and doesn’t overwrite game assets. You c
 
 - Mod by **Grymm**.  
 - Powered by **BepInEx**, **Harmony**, and a stubborn desire to put things exactly where I want them.
+
+---
+
+## My ASKA Mods (so far) 
+
+[Grymm's Builder Buddy](https://github.com/Grymmwolf/GrymmsBuilderBuddy) - Build anywhere!  
+[Grymm’s Pups of Perpetuity](https://github.com/Grymmwolf/Pups-of-Perpetuity) - No more starving dogs! 
 
 ---
 
