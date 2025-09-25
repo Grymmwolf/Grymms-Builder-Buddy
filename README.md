@@ -4,6 +4,8 @@ Sick of arguing with the ghost preview like it’s your HOA president?
 
 Same. Builder Buddy ignores the picky bits and supersizes your terraforming, so you can build the village in your head, not the one the tool settles for.
 
+![Screenshot](GBB.png)
+
 ---
 
 ## Features
