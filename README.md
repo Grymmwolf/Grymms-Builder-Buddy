@@ -6,8 +6,6 @@ Same. Builder Buddy ignores the picky bits and supersizes your terraforming, so 
 
 ![Screenshot](GBB.png)
 
----
-
 ## Features
 
 **Build Anywhere**
