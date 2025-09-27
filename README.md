@@ -10,6 +10,7 @@ Same. Builder Buddy ignores the picky bits and supersizes your terraforming, so 
 
 **Build Anywhere**
 - Allows you to place structures and paths anywhere. Want to put your woodcutters' hut inside a longhouse? Bad idea, but go for it! Want to place a dirth path through a wall or make a land bridge across a man-made ditch? Sure can buddy! (May require manual hoeing)
+- Oh... And wells.... Wells ANYWHERE!
 - Doesn’t alter settlement limits, resources, or costs--just the placement rule.  
 
 **Bigger Terrain Brush**
