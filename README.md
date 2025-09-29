@@ -13,9 +13,6 @@ Same. Builder Buddy ignores the picky bits and supersizes your terraforming, so 
 - Oh... And wells.... Wells ANYWHERE!
 - Doesn’t alter settlement limits, resources, or costs--just the placement rule.  
 
-**Bigger Terrain Brush**
-- Skips the footprint validation that limits brush size so you can work on large areas. Think 100 cells for the terrain tool instead of the default 10.
-
 ---
 
 ## Notes & Compatibility
