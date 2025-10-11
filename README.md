@@ -1,3 +1,5 @@
+Any future updates will be uploaded to https://www.nexusmods.com/aska/mods/11
+
 # Grymm’s Builder Buddy - *A simple QOL mod for ASKA.*  
 
 Sick of arguing with the ghost preview like it’s your HOA president?  
